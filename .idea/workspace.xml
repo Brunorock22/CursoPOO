@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58717bd1-b928-4da8-8338-1360e12dc0bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Aula011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Bolsista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Tecnico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula011/Visitante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Ave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Canguru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Cobra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Goldfish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Mamifero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Peixe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula012/Reptil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula013/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula013/Cachorro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula013/Lobo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula013/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula013/Mamifero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula04b/Aula04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula04b/Caneta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula05b/Aula05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula05b/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula06b/Aula06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula06b/Controle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula07b/Aula07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula07b/Luta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula07b/Lutador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/.idea/aula08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/Aula08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula08/Publicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula09/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula09/Aula09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula09/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula09/Pessoas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aula09/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/AcoesVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Gafanhoto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Visualizacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Aula011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Bolsista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula011/Visitante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Canguru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Cobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Goldfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula012/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula013/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula013/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula013/Lobo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula013/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula013/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04b/Aula04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04b/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05b/Aula05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05b/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06b/Aula06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06b/Controle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07b/Aula07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07b/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07b/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/.idea/aula08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Aula08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Publicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09/Aula09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/AcoesVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Gafanhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula013/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula013/Cachorro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/aula013/Lobo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula013/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Pessoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Gafanhoto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula06b/Aula06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula06b/Controle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+              <folding>
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/projetoyoutube/AcoesVideo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setnome</find>
+      <find>alea</find>
+      <find>apre</find>
+      <find>vito</find>
+      <find>ganhar</find>
+      <find>ganha</find>
+      <find>detalhes</find>
+      <find>detalhes()</find>
+      <find>pla</find>
+      <find>ab</find>
+      <find>abanar</find>
+      <find>avaliar</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Aula_02.java" />
+        <option value="$PROJECT_DIR$/src/aula04b/Aula04.java" />
+        <option value="$PROJECT_DIR$/src/aula04b/Caneta.java" />
+        <option value="$PROJECT_DIR$/src/aula05b/Aula05.java" />
+        <option value="$PROJECT_DIR$/src/aula06b/Aula06.java" />
+        <option value="$PROJECT_DIR$/src/aula06b/Controle.java" />
+        <option value="$PROJECT_DIR$/src/aula05b/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/src/Caneta.java" />
+        <option value="$PROJECT_DIR$/src/aula07b/Luta.java" />
+        <option value="$PROJECT_DIR$/src/aula07b/Lutador.java" />
+        <option value="$PROJECT_DIR$/src/aula07b/Aula07.java" />
+        <option value="$PROJECT_DIR$/src/aula08/Publicacao.java" />
+        <option value="$PROJECT_DIR$/src/aula08/Aula08.java" />
+        <option value="$PROJECT_DIR$/src/aula08/Livro.java" />
+        <option value="$PROJECT_DIR$/src/aula08/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Pessoas.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Professor.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Funcionario.java" />
+        <option value="$PROJECT_DIR$/src/aula09/Aula09.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Bolsista.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Tecnico.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Professor.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Visitante.java" />
+        <option value="$PROJECT_DIR$/src/aula011/Aula011.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Reptil.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Peixe.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Animal.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Ave.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Mamifero.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Goldfish.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Cobra.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Canguru.java" />
+        <option value="$PROJECT_DIR$/src/aula012/Main.java" />
+        <option value="$PROJECT_DIR$/src/aula013/Mamifero.java" />
+        <option value="$PROJECT_DIR$/src/aula013/Cachorro.java" />
+        <option value="$PROJECT_DIR$/src/aula013/Animal.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/AcoesVideo.java" />
+        <option value="$PROJECT_DIR$/src/aula013/Main.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/Video.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/Main.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/Gafanhoto.java" />
+        <option value="$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java" />
+        <option value="$PROJECT_DIR$/src/aula013/Lobo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="43" />
+    <option name="width" value="929" />
+    <option name="height" value="901" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CursoPoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoPoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoPoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoPoo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoPoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoPoo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aula013" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Aula011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula011.Aula011" />
+      <module name="Aula-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPF_verificacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPF_verificacao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula013.Main" />
+      <module name="Aula-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetoyoutube.Main" />
+      <module name="Aula-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projetoyoutube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula012.Main" />
+      <module name="Aula-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.CPF_verificacao" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Aula011" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58717bd1-b928-4da8-8338-1360e12dc0bb" name="Default Changelist" comment="" />
+      <created>1557833575841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557833575841</updated>
+      <workItem from="1557833580387" duration="27942000" />
+      <workItem from="1558373316715" duration="13000" />
+      <workItem from="1558443460846" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27958000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13268608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5011111" side_tool="true" weight="0.2580645" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49888888" visible="true" weight="0.1953125" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula05b/ContaCorrente.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/aula04b/Aula04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula05b/ContaCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="method#abrirConta#0;class#ContaCorrente#0" />
+            <element signature="method#fecharConta#0;class#ContaCorrente#0" />
+            <element signature="method#depositar#0;class#ContaCorrente#0" />
+            <element signature="method#saque#0;class#ContaCorrente#0" />
+            <element signature="method#pagarMensalidade#0;class#ContaCorrente#0" />
+            <element signature="method#estrato#0;class#ContaCorrente#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula05b/Aula05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caneta.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula07b/Lutador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="method#apresentar#0;class#Lutador#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aula_02.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula08/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula07b/Aula07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula07b/Luta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/io/PrintStream.class" />
+    <entry file="file://$PROJECT_DIR$/src/aula08/Aula08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula08/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula09/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula09/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula09/Pessoas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula08/Publicacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula09/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula-02.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula09/Aula09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Bolsista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Tecnico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Visitante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula011/Aula011.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Ave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Reptil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Cobra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Mamifero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Canguru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Goldfish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula012/Peixe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Substring/src/CPF_verificacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Mamifero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Gafanhoto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula06b/Aula06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula06b/Controle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/projetoyoutube/AcoesVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Lobo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
