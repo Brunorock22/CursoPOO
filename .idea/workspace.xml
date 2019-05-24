@@ -63,6 +63,7 @@
       <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Pessoa.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Video.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/projetoyoutube/Visualizacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
@@ -129,15 +130,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aula013/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
@@ -169,7 +161,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/aula013/Lobo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
@@ -183,6 +175,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/git">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/aula013/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -539,13 +536,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/aula04b/Aula04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aula05b/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -974,13 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aula013/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/projetoyoutube/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -997,9 +980,13 @@
         <state relative-caret-position="119">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
+            <element signature="e#352#353#0" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
           </folding>
         </state>
@@ -1040,6 +1027,16 @@
             <element signature="e#96#97#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula013/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
